@@ -1,0 +1,48 @@
+# Build artifacts
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+build/
+Debug/
+Release/
+obj/
+lst/
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+*.user
+*.ncb
+*.VC.db
+
+# IDE project files
+*.cbp
+*.depend
+*.layout
+*.cproject
+*.project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Logs
+*.log
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# C dependencies
+*.out
+*.su
